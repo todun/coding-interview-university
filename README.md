@@ -217,13 +217,13 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     Mark all boxes with X after you completed your changes
 
-`git add . `
+`git add .`
 
-`git commit -m "Marked x" `
+`git commit -m "Marked x"`
 
-`git rebase jwasham/master `
+`git rebase jwasham/master`
 
-`git push --force `
+`git push --force`
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
@@ -265,6 +265,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+    - [ ] [Intro to Data Structures and Algorithms using Python! (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
+        - A free Python centric data structures and algorithms course.
+    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
+        - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
 
 </details>
 
@@ -280,6 +284,8 @@ You could also use these, but read around first. There may be caveats:
 
 - JavaScript
 - Ruby
+
+Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)
 
 You need to be very comfortable in the language and be knowledgeable.
 
@@ -344,7 +350,7 @@ Choose one:
 
 Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
 
-If you read though one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
+If you read through one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
 **You can skip all the video lectures in this project**, unless you'd like a review.
 
 [Additional language-specific resources here.](programming-language-resources.md)
@@ -889,11 +895,11 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Familiarize yourself with each representation and its pros & cons
     - BFS and DFS - know their computational complexity, their tradeoffs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none.
-    
+
 - [ ] MIT(videos):
     - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [ ] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
-    
+
 - [ ] Skiena Lectures - great intro:
     - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
     - [ ] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://www.youtube.com/watch?v=g5vF8jscteo&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=12)
@@ -1170,7 +1176,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 
 - ### Endianness
-    - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
+    - [ ] [Big And Little Endian](https://web.archive.org/web/20180107141940/http://www.cs.umd.edu:80/class/sum2003/cmsc311/Notes/Data/endian.html)
     - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
     - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
         - Very technical talk for kernel devs. Don't worry if most is over your head.
@@ -1655,7 +1661,6 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
         - [ ] [Side-Channel Attacks](https://www.youtube.com/watch?v=PuVMkSEcPiI&index=15&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
 - ### Garbage collection
-    - [ ] [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
     - [ ] [GC in Python (video)](https://www.youtube.com/watch?v=iHVs_HkjdmI)
     - [ ] [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
     - [ ] [Deep Dive Python: Garbage Collection in CPython (video)](https://www.youtube.com/watch?v=P-8Z0-MhdQs&list=PLdzf4Clw0VbOEWOS_sLhT_9zaiQDrS5AR&index=3)
